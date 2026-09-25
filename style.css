@@ -80,6 +80,7 @@ h2{
     padding: 50px;
     margin: 0 auto;
     width: 80%;
+    text-align: center;
 }
 
 header{
@@ -114,7 +115,6 @@ header a:hover {
 .emblema{
     height: 400px;
     border-radius: 10px;
-    margin-left: 25%;
     margin-bottom: 40px;
 }
 
@@ -205,4 +205,3 @@ button:active {
     margin-bottom: 50px;
     margin-left: 45%;
 }
-
